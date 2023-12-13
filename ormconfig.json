@@ -1,0 +1,13 @@
+{
+  "type": "mariadb",
+  "host": "10.2.16.50",
+  "port": 3306,
+  "username": "root",
+  "password": "R3dB0xb4igon",
+  "database": "baygonle",
+  "logging": false,
+  "synchronize": false,
+  "entities": [
+    "/home/redbox/Documents/Projects/Baygon LE/baygon-le-api-integrasi/dist/datasource/databases/project-db/models/*.entity.{ts,js}"
+  ]
+}
